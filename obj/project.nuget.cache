@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hj0mVYv8myuVjKxudsr18m3tjoefa6QbJd4TdvnftYdAumWrCaSfxhodRKHAJQb5zHAvoi0DUdeO9LV0sEqQLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bootcamp\\Desktop\\ParkingLot - Copy\\ParkingLot\\ParkingLot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bootcamp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\bootcamp\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\bootcamp\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\bootcamp\\.nuget\\packages\\system.text.regularexpressions\\4.3.1\\system.text.regularexpressions.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
