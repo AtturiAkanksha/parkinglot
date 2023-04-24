@@ -1,0 +1,17 @@
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\bin\Debug\net7.0\Enums.dll
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\bin\Debug\net7.0\Models.dll
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\bin\Debug\net7.0\Enums.pdb
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\bin\Debug\net7.0\Models.pdb
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CopyComplete
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\Users\bootcamp\Desktop\ParkingLot - Copy\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
